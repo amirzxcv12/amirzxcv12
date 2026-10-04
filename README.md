@@ -6,7 +6,7 @@
 
 *Building things, one project at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=5555ff)
+![Profile Views](https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=5555ff)
 
 </div>
 
@@ -45,10 +45,10 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YOUR_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirzxcv12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/amirzxcv12)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirzxcv12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github.com/amirzxcv12)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
