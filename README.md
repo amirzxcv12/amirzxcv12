@@ -14,7 +14,6 @@
 
 # About Me
 
-- 💬 Building a Persian (RTL) AI chat app
 - 🐧 Making tools for the Iranian Linux community
 - 🌱 Always learning something new
 
@@ -36,7 +35,6 @@
 
 | Project | What it is |
 |---|---|
-| 💬 **BeepGPT** | Persian (RTL) AI chat app in a single HTML file |
 | 🐧 **Kashi (کاشی)** | App store website for Iranian Linux users |
 
 ---
