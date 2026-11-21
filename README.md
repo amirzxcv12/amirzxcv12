@@ -82,9 +82,9 @@ Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer 
 
 ## 🎯 Current Goals
 
-- [ ] Improve my Python skills.
-- [ ] Learn more about OpenCV.
-- [ ] Improve my C++ knowledge.
+- [x] Improve my Python skills.
+- [x] Learn more about OpenCV.
+- [x] Improve my C++ knowledge.
 - [ ] Build more interesting projects.
 - [ ] Explore Linux and system programming.
 
