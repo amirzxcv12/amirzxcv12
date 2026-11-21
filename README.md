@@ -4,29 +4,29 @@
 
 ### `aka 09` · Python & C++ Developer
 
-**Building. Learning. Experimenting.**
+**Building things. Breaking things. Learning every day.**
 
-<img src="https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=7c3aed" />
+<img src="https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5b5bd6?style=flat-square&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2563eb?style=flat-square&logo=cplusplus&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-amirzxcv12-181717?style=for-the-badge&logo=github)](https://github.com/amirzxcv12)
+[![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-2563eb?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer vision, and technology.
+Hey! I'm **Amirreza**, a developer from Iran 🇮🇷 who enjoys exploring technology and building things with code.
 
-- 🌱 Always learning new technologies.
 - 🐍 Exploring Python and OpenCV.
 - ⚙️ Learning C++ and system programming.
-- 🖥️ Interested in Linux and open-source software.
-- 🚀 Building small projects and improving my skills.
+- 📷 Interested in computer vision.
+- 🐧 Exploring Linux and open-source software.
+- 🚀 Turning ideas into small projects.
 
 ---
 
@@ -34,37 +34,37 @@ Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer 
 
 <div align="center">
 
-### Programming Languages
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html" />
 
-### Tools & Technologies
+<br/><br/>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=opencv,linux,git,github,bash,vscode,cloudflare" />
 
 </div>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technology |
-| -------------------- | --------------------------------------- | ---------------- |
-| 📷 Virtual Camera | Display images in a camera-style window | Python, OpenCV |
-| 🌫️ Gaussian Blur | Real-time camera blur effect | Python, OpenCV |
-| 🔍 Edge Detection | Real-time Canny edge detection | Python, OpenCV |
-| 🧮 Simple Calculator | Basic interactive calculator | HTML, JavaScript |
-| 💻 System Info | Linux system information tool | Bash, Linux |
+<div align="center">
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| 📷 **Virtual Camera** | Display images in a camera-style window | Python · OpenCV |
+| 🌫️ **Gaussian Blur** | Real-time camera blur effect | Python · OpenCV |
+| 🔍 **Edge Detection** | Real-time Canny edge detection | Python · OpenCV |
+| 🧮 **Simple Calculator** | Basic interactive calculator | HTML · JavaScript |
+| 💻 **System Info** | Linux system information tool | Bash · Linux |
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer 
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -83,19 +83,34 @@ Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer 
 ## 🎯 Current Goals
 
 - [x] Improve my Python skills.
-- [x] Learn more about OpenCV.
+- [x] Learn the basics of OpenCV.
 - [x] Improve my C++ knowledge.
-- [ ] Build more interesting projects.
-- [ ] Explore Linux and system programming.
+- [x] Build more interesting projects.
+- [x] Explore Linux and system programming.
+- [x] Create something worth sharing.
+- [x] Learn 100% html
+- [x] Learn 100% c++
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirzxcv12)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*Code is just the beginning.*
+*Keep learning. Keep building.*
 
 **AMIRREZA · 09**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:9333ea&height=100&section=footer" />
 
 </div>
