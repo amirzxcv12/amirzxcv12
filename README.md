@@ -1,59 +1,101 @@
-<div align="center">
+ <div align="center">
 
-# Hey, I'm Amirreza 👋
+# 👾 AMIRREZA
 
-### aka **09** · Developer from Iran
+### `aka 09` · Python & C++ Developer
 
-*Building things, one project at a time.*
+**Building. Learning. Experimenting.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=5555ff)
+<img src="https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=7c3aed" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5b5bd6?style=flat-square&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2563eb?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-- 🐧 Making tools for the Iranian Linux community
-- 🌱 Always learning something new
+Hi! I'm **Amirreza**, a developer from Iran interested in programming, computer vision, and technology.
+
+- 🌱 Always learning new technologies.
+- 🐍 Exploring Python and OpenCV.
+- ⚙️ Learning C++ and system programming.
+- 🖥️ Interested in Linux and open-source software.
+- 🚀 Building small projects and improving my skills.
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<div align="center">
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Technologies
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# What I'm Building
-
-| Project | What it is |
-|---|---|
-| 🐧 **Kashi (کاشی)** | App store website for Iranian Linux users |
-
----
-
-# Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirzxcv12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/amirzxcv12)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirzxcv12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github.com/amirzxcv12)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
+## 🚀 My Projects
+
+| Project | Description | Technology |
+| -------------------- | --------------------------------------- | ---------------- |
+| 📷 Virtual Camera | Display images in a camera-style window | Python, OpenCV |
+| 🌫️ Gaussian Blur | Real-time camera blur effect | Python, OpenCV |
+| 🔍 Edge Detection | Real-time Canny edge detection | Python, OpenCV |
+| 🧮 Simple Calculator | Basic interactive calculator | HTML, JavaScript |
+| 💻 System Info | Linux system information tool | Bash, Linux |
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-*Reach for the stars. ⭐*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirzxcv12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzxcv12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Improve my Python skills.
+- [ ] Learn more about OpenCV.
+- [ ] Improve my C++ knowledge.
+- [ ] Build more interesting projects.
+- [ ] Explore Linux and system programming.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Code is just the beginning.*
+
+**AMIRREZA · 09**
 
 </div>
