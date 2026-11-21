@@ -1,116 +1,153 @@
  <div align="center">
 
-# 👾 AMIRREZA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,40:4c1d95,100:2563eb&height=220&section=header&text=AMIRREZA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=17&descAlignY=58&animation=twinkling" />
 
-### `aka 09` · Python & C++ Developer
-
-**Building things. Breaking things. Learning every day.**
-
-<img src="https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<a href="https://github.com/amirzxcv12">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+%26+C%2B%2B+Developer;Exploring+Computer+Vision;Building+Cool+Things+With+Code;Always+Learning+Something+New" />
+</a>
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=amirzxcv12&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-amirzxcv12-181717?style=for-the-badge&logo=github)](https://github.com/amirzxcv12)
-[![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-2563eb?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2563eb?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-Hey! I'm **Amirreza**, a developer from Iran 🇮🇷 who enjoys exploring technology and building things with code.
+```python
+class Amirreza:
+
+    def __init__(self):
+        self.name = "Amirreza"
+        self.username = "aka 09"
+        self.country = "Iran 🇮🇷"
+        self.languages = ["Python", "C++"]
+        self.interests = [
+            "Computer Vision",
+            "Open Source",
+            "Linux",
+            "Technology"
+        ]
+
+    def motto(self):
+        return "Building. Learning. Experimenting."
+
+
+me = Amirreza()
+```
 
 - 🐍 Exploring Python and OpenCV.
 - ⚙️ Learning C++ and system programming.
 - 📷 Interested in computer vision.
 - 🐧 Exploring Linux and open-source software.
-- 🚀 Turning ideas into small projects.
+- 🚀 Creating projects and experimenting with new ideas.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ TECH STACK
 
 <div align="center">
 
-**Languages**
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html&theme=dark" />
 
 <br/><br/>
 
-**Tools & Technologies**
+### `TOOLS & TECHNOLOGIES`
 
-<img src="https://skillicons.dev/icons?i=opencv,linux,git,github,bash,vscode,cloudflare" />
+<img src="https://skillicons.dev/icons?i=opencv,linux,git,github,bash,vscode,cloudflare&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 PROJECTS
 
 <div align="center">
 
-| Project | Description | Tech |
+| 💻 Project | 📝 Description | ⚡ Technology |
 |:---|:---|:---|
-| 📷 **Virtual Camera** | Display images in a camera-style window | Python · OpenCV |
-| 🌫️ **Gaussian Blur** | Real-time camera blur effect | Python · OpenCV |
-| 🔍 **Edge Detection** | Real-time Canny edge detection | Python · OpenCV |
-| 🧮 **Simple Calculator** | Basic interactive calculator | HTML · JavaScript |
-| 💻 **System Info** | Linux system information tool | Bash · Linux |
+| 📷 Virtual Camera | Camera-style image display | Python · OpenCV |
+| 🌫️ Gaussian Blur | Real-time blur effect | Python · OpenCV |
+| 🔍 Edge Detection | Canny edge detection | Python · OpenCV |
+| 🧮 Calculator | Interactive calculator | HTML · JavaScript |
+| 🖥️ System Info | Linux system information | Bash · Linux |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirzxcv12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirzxcv12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09001F&title_color=A78BFA&icon_color=60A5FA&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzxcv12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzxcv12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=09001F&title_color=A78BFA&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=amirzxcv12&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=amirzxcv12&theme=tokyonight&hide_border=true&background=09001F&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" />
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-- [x] Improve my Python skills.
-- [x] Learn the basics of OpenCV.
-- [x] Improve my C++ knowledge.
-- [x] Build more interesting projects.
-- [x] Explore Linux and system programming.
-- [x] Create something worth sharing.
-- [x] Learn 100% html
-- [x] Learn 100% c++
-
----
-
-## 🌐 Connect With Me
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirzxcv12)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirzxcv12&bg_color=09001f&color=a78bfa&line=6366f1&point=60a5fa&area=true&hide_border=true&custom_title=AMIRREZA%20CONTRIBUTION%20GRAPH" />
 
 </div>
 
 ---
 
+## 🎯 CURRENT GOALS
+
+- [x] Improve Python skills
+- [x] Explore OpenCV
+- [x] Learn C++ fundamentals
+- [ ] Build advanced projects
+- [ ] Explore system programming
+- [ ] Develop more open-source tools
+
+---
+
+## 💜 DEVELOPER MODE
+
 <div align="center">
 
-### ⭐ Thanks for visiting!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=500&lines=while(alive)+%7B+keep_learning();+%7D;Ideas+into+Code.;Code+is+my+creative+space.;Think.+Build.+Repeat." />
 
-*Keep learning. Keep building.*
+<br/><br/>
+
+```text
+   ┌─────────────────────────────────┐
+   │  AMIRREZA@GITHUB                │
+   │  -----------------------------  │
+   │  STATUS   : ONLINE              │
+   │  MODE     : DEVELOPMENT         │
+   │  STACK    : PYTHON / C++        │
+   │  MISSION  : BUILD THE FUTURE    │
+   └─────────────────────────────────┘
+```
+
+### ⭐ Thanks for visiting my profile!
 
 **AMIRREZA · 09**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:9333ea&height=100&section=footer" />
+*Code is just the beginning.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:09001f&height=130&section=footer&animation=twinkling" />
