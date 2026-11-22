@@ -117,7 +117,7 @@ me = Amirreza()
 - [x] Learn C++ fundamentals
 - [x] Build advanced projects
 - [x] Explore system programming
-- [] Develop more open-source tools
+- [x] Develop more open-source tools
 
 ---
 
