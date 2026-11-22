@@ -115,9 +115,9 @@ me = Amirreza()
 - [x] Improve Python skills
 - [x] Explore OpenCV
 - [x] Learn C++ fundamentals
-- [ ] Build advanced projects
-- [ ] Explore system programming
-- [ ] Develop more open-source tools
+- [x] Build advanced projects
+- [x] Explore system programming
+- [] Develop more open-source tools
 
 ---
 
